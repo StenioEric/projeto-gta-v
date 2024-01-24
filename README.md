@@ -1,2 +1,2 @@
-# Cursos_Front
-Repositório voltado para os cursos do Dev em Dobro e da Alura
+# Projeto_GTA_V
+Repositório voltado para o curso do Dev em Dobro.
